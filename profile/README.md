@@ -1,5 +1,5 @@
 ## Hi there, im Kris read below! 👋
-![My project](https://user-images.githubusercontent.com/75515498/153982839-f8c11b28-57a0-4017-bc95-87915a5ff9ae.png)
+![kriscybersec](https://user-images.githubusercontent.com/75515498/158007077-61ea4534-a59f-494d-a6ae-fe62edd9fea4.png)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -33,3 +33,4 @@ you can currently find me on any of the platforms below!
 | Steam | https://steamcommunity.com/id/krisxkrazy/ |
 | roblox| https://www.roblox.com/users/279786192/profile |
 | Medium | https://krisxkrazy.medium.com/ |
+
