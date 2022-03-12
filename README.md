@@ -1,5 +1,5 @@
 ## Hi there, im Kris read below! 👋
-![My project]( ![kriscybersec](https://user-images.githubusercontent.com/75515498/158007077-61ea4534-a59f-494d-a6ae-fe62edd9fea4.png)
+( ![kriscybersec](https://user-images.githubusercontent.com/75515498/158007077-61ea4534-a59f-494d-a6ae-fe62edd9fea4.png)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
