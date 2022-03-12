@@ -13,14 +13,13 @@
 - Privacy & Security Informant 
 - pdf archiver & preserver of knowledge 
 
-KrisBits is less of a project and more of a collective of ideas I wanted to create
-but did not need on profile.
+KrisTools is a org created to act as a second profile for cybersec tools I create, and utilize.
 
-> Game Scripts,
-> VRM & MMD models,
-> personal & public dotfiles,
-> Unrealeased mp3 files,
-> free pdf library
+> Automation Scripts,
+> Ancient, and recent viruses,
+> Linux Guides, and dotfiles,
+> Terminal Programs,
+> Bad Usb Scripts
 
 ## Find Me
 
